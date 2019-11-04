@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bkallen/Desktop/CU Fall 2019/cFundies/allenBriceLab_09/functions.cpp
+functions.h
+/Users/bkallen/Desktop/CU Fall 2019/cFundies/allenBriceLab_09/functions.h
+
+/Users/bkallen/Desktop/CU Fall 2019/cFundies/allenBriceLab_09/functions.h
+iostream
+-
+fstream
+-
+algorithm
+-
+
+/Users/bkallen/Desktop/CU Fall 2019/cFundies/allenBriceLab_09/main.cpp
+iostream
+-
+functions.h
+/Users/bkallen/Desktop/CU Fall 2019/cFundies/allenBriceLab_09/functions.h
+
